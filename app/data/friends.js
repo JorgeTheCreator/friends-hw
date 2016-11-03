@@ -1,4 +1,4 @@
-// TV Sitcoms "Friends" and "The Big Bang Theory"
+
 
 var friends = [
   {
